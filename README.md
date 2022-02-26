@@ -1,4 +1,7 @@
-### Hi there 👋
+## Creative developper from Nice, France 🍷🥐
+- 🎓 Epitech promo 2026 student
+- 🌎 Love creating web applications (NodeJS, VueJS...)
+- 📫 Contact me : gwenael.hubler@epitech.eu
 
 <!--
 **Neeptossss/Neeptossss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
