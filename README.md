@@ -1,6 +1,6 @@
 ### Creative developper from Nice, France ☀️🥐
 - 🎓 Epitech promo 2026 student
-- 🌎 Love creating web applications (NodeJS, VueJS...)
+- 🌎 Love creating web applications
 - 📫 Contact me : gwenael.hubler@epitech.eu
 
 **Languages and tools:**  
